@@ -1,4 +1,4 @@
-# Solidity_02
+# Solidity_01
 合约编译，开源，测试，gas消耗，验证测试程度
 
 npm install hardhat-gas-reporter --save-dev
